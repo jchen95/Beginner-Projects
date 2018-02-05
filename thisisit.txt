@@ -24,4 +24,6 @@ Projects
 -to do list
 -pomodoro clock
 -chinese flash cards based on color game.
+-blog page
+-workout app with reps and fitness excersizes
 
