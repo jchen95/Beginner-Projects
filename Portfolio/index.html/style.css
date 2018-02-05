@@ -1,0 +1,117 @@
+body,html {
+  height:100%;
+  margin: 0;
+  font-size:16px;
+  font-family:"Lato", sans-serif;
+  font-weight:400;
+  line-height: 1.8em;
+  
+}
+
+.area1, .area2, .area3 {
+
+position:relative;
+opacity: .7;
+background-position: center;
+background-size: cover;
+background-repeat: no-repeat;
+}
+
+.area1,.area2,.area3{
+  position: relative;
+  opacity: .7;
+  background-position:center;
+  background-size: cover;
+  background-repeat:no-repeat;
+  background-attachment: fixed;
+}
+
+.area1{
+  background-image:url("../images/img3.jpeg");
+  min-height: 75%;
+  color:rgb(217,220,222);
+}
+
+
+.area2{
+  background-image:url("../images/img1.jpg");
+  min-height: 60%
+  
+}
+
+.area3{
+  background-image:url('../images/img5.jpg');
+  min-height: 75%;
+}
+
+.section{
+  text-align: center;
+  padding: 50px 80px;
+
+}
+
+.block {
+  background-color: black;
+  opacity: .8; 
+  width: 100%;
+  margin-right: auto;
+  margin-left: auto;
+  padding: 20px;
+}
+
+h1{
+  text-align: center;
+  font-size: 6.0em;         o
+}
+
+h3 {
+  text-align:center;
+  font-size: 2.0em;
+}
+
+.btnList{
+  text-align: center
+}
+
+#whitebg {
+  background-color: rgba(0,0,0,.0); /* the last digit modifies opacity */
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 100px;
+  width: 80%; /* this modifies the width of the box containing the name */
+  padding: 1%; /* controls the white background in Jason Chen */
+}
+
+.btn {
+    background-color: Transparent;
+    background-repeat:no-repeat;
+    border: none;
+    cursor:pointer;
+    overflow: hidden;
+    outline:none;
+  }
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+    background-color: #111;
+}
