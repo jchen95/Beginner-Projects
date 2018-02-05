@@ -1,0 +1,27 @@
+Dev Chentai
+
+
+Basics/Syntax
+
+-Udemy
+-Udacity
+-cs50x
+-coursera
+
+Alogorithms/Problem Sovling
+
+-FreeCodeCamp
+-Codewars
+-Codeingames
+-Javascript 30 challange
+
+Projects
+-Movie Schedule website
+-Lil Pump Lorum Ipsum
+-Interactive Cat Mouse app
+-Twitch Emotes SMS
+-personal webpage showing projects
+-to do list
+-pomodoro clock
+-chinese flash cards based on color game.
+
